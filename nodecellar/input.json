@@ -1,0 +1,9 @@
+{
+    "location": "CFY_DATACENTER",
+    "domain": "cfy.vm",
+    "ram": CFY_MEMORY,
+    "cpu": CFY_CPU,
+    "disk": CFY_DISK,
+    "os": CFY_VMSOS
+}
+
